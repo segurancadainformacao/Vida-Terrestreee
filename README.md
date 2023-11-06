@@ -1,2 +1,2 @@
 # Vida-Terrestreee
-# https://github.com/segurancadainformacao/Vida-Terrestreee.git
+# https://segurancadainformacao.github.io/Vida-Terrestreee/
